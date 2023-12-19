@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "MacStatLogo.png",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "MacStatLogo 1.png",
+      "idiom" : "mac"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
